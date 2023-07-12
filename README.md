@@ -1,0 +1,1 @@
+Meu primeiro projeto em HTML, CSS e JavaScript. Bem como um teste para minha aula de Git/GitHub.
